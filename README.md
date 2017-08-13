@@ -1,0 +1,2 @@
+# budgie
+Personal budgeting application
